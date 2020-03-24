@@ -1,3 +1,7 @@
 function main(){
 return true;
 }
+
+function fn(){
+console.log(123)
+}
