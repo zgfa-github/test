@@ -5,3 +5,7 @@ return true;
 function fn(){
 console.log(123)
 }
+
+function fn123(){
+console.log(123)
+}
